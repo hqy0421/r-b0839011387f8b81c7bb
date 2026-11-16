@@ -1,0 +1,6 @@
+{"id": "R1", "tokens": ["alpha", "beta", "gamma", "delta", "epsilon"]}
+{"id": "R2", "tokens": ["alpha", "beta", "gamma", "delta", "eta"]}
+{"id": "R3", "tokens": []}
+{"id": "R4", "tokens": null}
+{"id": "R5", "tokens": ["right", "only", "vocab", "now"]}
+{"id": "DUP", "tokens": ["alpha", "beta", "gamma", "delta", "epsilon"]}
